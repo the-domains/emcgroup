@@ -1,6 +1,6 @@
 name: emcgroup
 favicon: null
-layout_spectrum: 0.32068351306952536
+layout_spectrum: 1
 typography_spectrum: 0.9659976928960532
 title: EMC Group
 cta:
@@ -23,7 +23,7 @@ color:
     - '#F4EEA9'
     - '#F4F482'
   brandStrength: 0.5910410948563367
-  lightness: 0.232451326912269
+  lightness: 0.5
   saturation: 0.4885462801903486
-  rhythmicContrast: 0.16810259479098022
+  rhythmicContrast: 0.5
 purpose: []
