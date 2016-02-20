@@ -2,6 +2,7 @@ name: emcgroup
 favicon: null
 layout_spectrum: 0.32068351306952536
 typography_spectrum: 0.9659976928960532
+title: EMC Group
 cta:
   domain: null
   bucket: null
