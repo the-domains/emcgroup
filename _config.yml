@@ -1,0 +1,28 @@
+name: emcgroup
+favicon: null
+layout_spectrum: 0.32068351306952536
+typography_spectrum: 0.9659976928960532
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5910410948563367
+  lightness: 0.232451326912269
+  saturation: 0.4885462801903486
+  rhythmicContrast: 0.16810259479098022
+purpose: []
