@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[emcgroup]]></title>
-        <description><![CDATA[emcgroup]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[EMC Group]]></title>
+        <description><![CDATA[EMC Group]]></description>
+        <link>http://emcgroup.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 06:53:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Feb 2016 06:58:46 GMT</lastBuildDate>
+        <atom:link href="http://emcgroup.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Hello</p>]]></description>
-            <link>undefined19fa87a0-d9a1-479f-8988-aad021a6ed80/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a23a056a-b53d-46ee-ab25-26876a609041.jpg">]]></description>
+            <link>http://emcgroup.com/19fa87a0-d9a1-479f-8988-aad021a6ed80/index.html</link>
             <guid isPermaLink="false">19fa87a0-d9a1-479f-8988-aad021a6ed80</guid>
-            <pubDate>Sat, 20 Feb 2016 06:53:41 GMT</pubDate>
+            <pubDate>Sat, 20 Feb 2016 06:58:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
